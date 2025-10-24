@@ -19,7 +19,7 @@ class ListaTarefasApp extends StatelessWidget {
         scaffoldBackgroundColor: Colors.grey[50], // Fundo sutilmente cinza
 
         appBarTheme: const AppBarTheme(
-          color: Colors.white,
+          backgroundColor: Colors.white,
           elevation: 0, // Sem sombra na AppBar
           titleTextStyle: TextStyle(
             color: Colors.black87,
